@@ -29,7 +29,7 @@ This Extension is designed solely for when you want to turn your article page to
 
 ![Pick Extension file](/templates/install_extension1.png)
 
-![Installation success](/templates/installation success.png)
+![Installation success](/templates/installation_success.png)
 
 ![All installed Modules](/templates/mod_screenshots.png)
 ## How It Works

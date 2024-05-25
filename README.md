@@ -23,15 +23,26 @@ This Extension is designed solely for when you want to turn your article page to
 
 ## Usage
 
+#### Convert to Zip
+
 ![Convert to Zip](/templates/convert_to_zip.png)
+
+#### Install Extension
 
 ![Install Extension](/templates/install_extension.png)
 
+#### Pick Extension file
+
 ![Pick Extension file](/templates/install_extension1.png)
+
+#### Installation Success
 
 ![Installation success](/templates/installation_success.png)
 
+#### All installed Modules
+
 ![All installed Modules](/templates/mod_screenshots.png)
+
 ## How It Works
 
 ### Form Initialization

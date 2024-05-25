@@ -20,10 +20,13 @@ This Extension is designed solely for when you want to turn your article page to
 
 - Joomla CMS
 - EShop component installed and configured
+- Git clone this repo and modify mod_setup to your products specification
+
+#### Note: All other files are for a store you can check as reference but you don't need it!!!
 
 ## Usage
 
-#### Convert to Zip
+#### Convert To Zip
 
 ![Convert to Zip](/templates/convert_to_zip.png)
 
@@ -31,7 +34,7 @@ This Extension is designed solely for when you want to turn your article page to
 
 ![Install Extension](/templates/install_extension.png)
 
-#### Pick Extension file
+#### Pick Extension File
 
 ![Pick Extension file](/templates/install_extension1.png)
 
@@ -39,11 +42,43 @@ This Extension is designed solely for when you want to turn your article page to
 
 ![Installation success](/templates/installation_success.png)
 
-#### All installed Modules
+#### All Installed Extensions
 
 ![All installed Modules](/templates/mod_screenshots.png)
 
-## How It Works
+#### Set Up Modules
+
+![Set up Modules](/templates/setting_up_mods1.png)
+
+#### Set Up Done!
+
+![Set up Done](/templates/setting_up_done.png)
+
+
+
+## How It Works FrontEnd
+
+#### The Module!!!
+
+![The Modules!!!](/templates/how_it_works.png)
+
+#### All Products List In Category Herbs Inherited
+
+![All Products](/templates/products_list.png)
+
+#### Selecting Products To Add To Cart
+
+![Adding Products To Cart](/templates/adding_product.png)
+
+#### User Feedback!!!
+
+![UserFeedback](/templates/items_added.png)
+
+#### Wow It Works!!!
+
+![Wow It Works](/templates/cart.png)
+
+## How It Works BackEnd
 
 ### Form Initialization
 
@@ -85,3 +120,9 @@ The `addToCart` function sends an AJAX request to add the selected product to th
 
 This project is open-source and available under the MIT License.
 
+## Author
+- *Slonjoh* [Slonjoh's Github](https://github.com/Slonjoh) - Software Engineer | Occasional Writer | Graphics designer | Chemist.
+
+## Contribution and questions
+- Anyone is free to contribute!!! 🧑🏽‍💻 👩🏽‍💻
+- Feel free to ask any questions!!! 🙇🏽‍♂️

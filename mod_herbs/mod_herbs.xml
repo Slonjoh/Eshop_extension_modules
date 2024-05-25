@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="module" version="3.0" client="site" method="upgrade">
+    <name>mod_herbs</name>
+    <author>Slonjoh Besttec</author>
+    <version>1.0.0</version>
+    <description>Herbs Module</description>
+    <files>
+        <filename module="mod_herbs">mod_herbs.php</filename>
+        <filename>helper.php</filename>
+        <folder>tmpl</folder>
+    </files>
+    <config>
+        <fields name="params">
+            <fieldset name="basic">
+                <field name="category_id" type="text" default="123" label="Category ID" description="Enter the category ID for Herbs."/>
+            </fieldset>
+        </fields>
+    </config>
+</extension>

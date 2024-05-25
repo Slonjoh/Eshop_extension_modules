@@ -1,6 +1,6 @@
 # EShop Extension (Add Products To Cart On Pages that are not Eshop Menus)
 
-This project provides an interactive form for selecting probiotics strains, specifying quantities, and adding the selected product to the cart using AJAX. The form is designed to work within a Joomla component (`com_eshop`).
+This project provides an interactive form for selecting products, specifying quantities, and adding the selected product to the cart using AJAX. The form is designed to work within a Joomla component (`com_eshop`).
 
 
 ## Reason for design

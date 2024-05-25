@@ -113,7 +113,12 @@ The `addToCart` function sends an AJAX request to add the selected product to th
 
 ## Troubleshooting
 
-- **Product Not Added to Cart**: Ensure that the `product_id` and `quantity` are correctly passed to the server-side script. Check the browser console for any errors.
+- **Product Not Added to Cart**:
+
+1. Ensure that the `product_id` and `quantity` are correctly passed to the server-side script. Check the browser console for any errors.
+2. Ensure that you include the right  `category_id` in your helper.php file.
+3. Usually you can get your `category_id` and `product_id` in the Eshop settings but if you want to cross-check in the database you can login into MyphpAdmin and see your MySql database under `#__eshop_productcategories` or `#__eshop_productdetails`.
+
 - **Button Not Updating**: Ensure that the `updateForm` function is called whenever the product selection or quantity changes.
 
 ## License

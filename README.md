@@ -18,9 +18,9 @@ This Extension is designed solely for when you want to turn your article page to
 
 ## Prerequisites
 
-- Joomla CMS
-- EShop component installed and configured
-- Git clone this repo and modify mod_setup to your products specification
+- Joomla CMS.
+- EShop component installed and configured.
+- Git clone this repo and modify mod_setup to your products specification.
 
 #### Note: All other files are for a store you can check as reference but you don't need it!!!
 

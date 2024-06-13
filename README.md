@@ -130,4 +130,4 @@ This project is open-source and available under the MIT License.
 
 ## Contribution and questions
 - Anyone is free to contribute!!! 🧑🏽‍💻 👩🏽‍💻
-- Feel free to ask any questions!!! 🙇🏽‍♂️
+- Feel free to ask any question!!! 🙇🏽‍♂️
